@@ -1,0 +1,8 @@
+.section__list {
+  margin: 30px;
+}
+.section__list--elements {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}

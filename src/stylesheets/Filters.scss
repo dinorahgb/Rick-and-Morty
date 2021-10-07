@@ -1,0 +1,16 @@
+.section__filters {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+
+  &--filterName {
+    width: 200px;
+  }
+
+  &--filterSpecies {
+    width: 80px;
+  }
+}

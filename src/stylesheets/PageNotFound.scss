@@ -1,0 +1,10 @@
+.section__notFound {
+  color: white;
+  text-align: center;
+
+  &--link {
+    text-decoration: none;
+    color: white;
+    border-radius: 15px;
+  }
+}
